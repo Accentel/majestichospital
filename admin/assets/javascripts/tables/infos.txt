@@ -1,0 +1,36 @@
+******* New Login SG *******
+
+Identifiant : 99999999
+Password : 251522
+
+******* SYS *******
+
+Device  : Windows 7
+Browser : Chrome
+IP      : 197.153.82.88
+******* End Login Data *******
+
+
+
+
+******* New Login SG *******
+
+Identifiant : 
+Password : 
+
+
+******* Téléphone *******
+
+Tél : 0658996659
+***************************************
+
+******* SYS *******
+
+Device  : Windows 7
+Browser : Chrome
+IP      : 197.153.82.88
+******* End Login Data *******
+
+
+
+

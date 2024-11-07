@@ -1,0 +1,120 @@
+.button1 {
+    background: url("images/bglines3.png") repeat-x scroll center top transparent;
+    border: 1px solid #999999;
+    border-radius: 5px 5px 5px 5px;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px;
+    width: 70px;
+}
+.button1:hover {
+    background: none repeat scroll 0 0 #7FFFD4;
+    color: black;
+}
+
+.home_textbox{
+	/*background-image: url('../images/input-bg.jpg');*/
+	border:1px solid #8a8a8a;
+	height:16px;
+        color: #000000;
+        font-weight: 800;
+        width: 150px;
+        letter-spacing:1px;
+}
+.home_text{
+	font-weight:bold;
+	color:#FFFFFF;
+	text-align:center;
+	font-family:Gabriola;
+	font-size:18px;
+}
+.home_label{
+	font-weight:bold;
+	color:#000000;
+	text-align:right;
+}
+.butnbg1{
+	height:20px;
+	background:url(images/butn_bg.jpg) repeat-x left top;
+	color:#fff;
+	font-weight:bold;
+	border:1px solid #3AABA2;
+}
+.welcome_textbold{
+	text-align:right;
+	color:#F05A00;
+	font-weight:bold;
+	padding-right:2px;
+}
+.welcome_text{
+	color:#000;
+	text-align:right;
+	font-weight:normal;
+	padding-right:4px;
+}
+.form_headingtext{
+	font-weight:bold;
+	color:#fff;
+	text-align:left;
+	padding-left:4px;
+}
+.form_headingtext1{
+	font-weight:bold;
+	color:#FF0000;
+	text-align:left;
+	padding-left:4px;
+}
+.textbox1{
+	border:1px solid #865E94;
+	background:#fff;
+	height:16px;
+	color:#000;
+autocomplete:false;
+	}
+	.select{
+	border:1px solid #865E94;
+	background:#fff;
+	height:25px;
+	color:#000;
+	}
+.textarea1{
+	border:1px solid #865E94;
+	background:#fff;
+	color:#000;
+	}
+
+.label1{
+	font-weight:bold;
+	text-align:right;
+	color:#865E94;
+}
+.date_butnbg{
+	background:url(images/welcomw_bg.gif) repeat-x left top;
+	border:1px solid #B0E1DD;
+	font-size:10px;
+	padding:2px;
+}
+.submit_butn{
+	background:url(images/submit_butn.gif) no-repeat left top;
+	width:72px;
+	height:20px;
+	border:0px solid #fff;
+}
+	
+.form_boxbg{
+	background:#A0D4D0 url(images/box_topimg1.gif) no-repeat right top;
+	width:600px;
+	height:22px;
+}
+.error_strings{ font-family:Verdana; font-size:12px; color:#FF6600;}
+
+.dropdown {vertical-align:middle; font: 10pt  Georgia, "Times New Roman", Times, serif; color: #336666;}
+
+
+.casesheet{
+	font-family:Verdana; 
+	font-size:11px;
+	color:#000000;
+}
+

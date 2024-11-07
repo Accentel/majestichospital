@@ -1,0 +1,113 @@
+CAPTION {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 5px
+}
+THEAD TH {
+	BACKGROUND: #9097A9; padding:2px; color:#fff;
+}
+TFOOT TD {
+	BACKGROUND: #ddd; padding:2px;
+}
+TR.ruled {
+	BACKGROUND: #E1C4FF;
+}
+#TABLE1 {
+	BORDER-RIGHT: #865E94 1px solid; BORDER-TOP: #865E94 1px solid; BORDER-LEFT: #865E94 1px solid; BORDER-BOTTOM: #865E94 1px solid; BORDER-COLLAPSE: collapse
+}
+.TH1 {
+	BORDER-RIGHT: #9097A9 1px solid; BORDER-TOP: #9097A9 1px solid; BORDER-LEFT: #9097A9 1px solid; BORDER-BOTTOM: #9097A9 1px solid; BORDER-COLLAPSE: collapse
+}
+.TD1 {
+	BORDER-RIGHT: #865E94 1px solid; BORDER-TOP: #865E94 1px solid; BORDER-LEFT: #865E94 1px solid; BORDER-BOTTOM: #865E94 1px solid; BORDER-COLLAPSE: collapse; padding-left:4px;padding-top:2px;padding-bottom:2px;
+}
+#mytable TR.ruled {
+	BACKGROUND: #333; COLOR: #ccc
+}
+.box1topleft{
+	width:8px;
+	height:24px;
+	background:url(images/box1topleft.jpg) no-repeat left top;
+}
+.box1topright{
+	width:8px;
+	height:24px;
+	background:url(images/box1topright.jpg) no-repeat right top;
+}
+.box1topbg{
+	height:24px;
+	background:url(images/box1topmidl.jpg) repeat-x left top;
+	padding-left:4px;
+	color:#ffffff;
+	font-weight:bold;
+}
+.box1botmleft{
+	width:8px;
+	height:20px;
+	background:url(images/box1botmleft.gif) no-repeat left top;
+}
+.box1botmright{
+	width:8px;
+	height:20px;
+	background:url(images/box1botmright.jpg) no-repeat left top;
+}
+.box1botmbg{
+	height:20px;
+	background:url(images/box1botmmidle.jpg) repeat-x left top;
+}
+.welcome_bg{
+	height:26px;
+	background:url(images/welcome_bg.jpg) repeat-x left top;
+	border-top:1px solid #ffffff;
+	
+}
+.footerbg{
+	height:26px;
+	background:#865E94;
+	text-align:center;
+	color:#000000;
+}
+.topmenu{
+	height:31px;
+	background:url(images/menubg.jpg) repeat-x left top;
+	margin:0px;
+	padding:0px;
+}
+.topmenu ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+}
+.topmenu li{
+	margin:0px;
+	padding:0px;
+	display:inline;
+}
+.topmenu li a{
+	display:inline;
+	float:left;
+	text-decoration:none;
+	font-weight:bold;
+	padding:9px 20px;
+	border-right:1px solid #ffffff;
+	color:#ffffff;
+}
+.topmenu li a:hover{
+	text-decoration:none;
+	background:#8fbeff;
+	color:#990000;
+}
+.welcome_text{
+	padding-left:4px;
+	text-align:left;
+	color:#FF6666;
+}
+.date_text{
+	text-align:right;
+	padding-right:4px;
+	color:#ffffff;
+}
+.leftCont{
+	
+	background:#E4FEFC;
+	border-right:1px solid #86DFE1;
+	height:510px;
+}
